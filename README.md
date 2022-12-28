@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gibsonPhillips
 - 👀 I’m interested in Programming, Software Engineering, Cybersecurity, and getting projects done.
-- 🌱 I’m currently learning secure networking protocols
+- 🌱 I’m currently Applying to jobs that will help me gain real world experience in the Industry. 
 <!--- - 💞️ I’m looking to collaborate on ...
 --->
 - 📫 Reach me at gcaryp4@gmail.com
